@@ -1,4 +1,4 @@
-Have you ever been about to play Monopoly game and realized that your electronic banking device of monopoly, which you haven't used in years, is broken? We have. That's why I decided to have an AI agent do this project.
+Have you ever been about to play Monopoly game and realized that your electronic banking device, which you haven't used in years, is broken? We have. That's why I decided to have an AI agent do this project.
 
 # Digital Banking Assistant
 
