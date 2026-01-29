@@ -1,0 +1,72 @@
+export default {
+  // Login
+  "login.title": "Monopoly",
+  "login.username.placeholder": "Username",
+  "login.submit": "Login",
+
+  // Lobby
+  "lobby.greeting": "Hello,",
+  "lobby.reconnecting": "reconnecting to game…",
+  "lobby.activeGames": "Active Games",
+  "lobby.noGames": "No games yet. Create one!",
+  "lobby.host": "Host",
+  "lobby.players": "player",
+  "lobby.gameSettings": "Game Settings",
+  "lobby.startingBalance": "Starting Balance",
+  "lobby.passGoAmount": "Pass Go Amount",
+  "lobby.anonymousBalances": "Anonymous balances",
+  "lobby.createGame": "Create Game",
+  "lobby.joinById.placeholder": "Game ID (e.g. G1A2B3C4)",
+  "lobby.joinById": "Join by ID",
+
+  // Game Room
+  "game.loading": "Loading…",
+  "game.roomId": "Game",
+  "game.online": "online",
+  "game.offline": "offline",
+  "game.players": "Players",
+  "game.startGame": "Start Game",
+  "game.finishGame": "Finish Game",
+  "game.waitingHint.host": "Adjust settings and start the game to enable transactions.",
+  "game.waitingHint.player": "Waiting for the host to start the game.",
+  "game.bank": "Bank",
+  "game.payBank": "Pay Bank",
+  "game.receiveFromBank": "Receive from Bank",
+  "game.passGo": "Pass Go",
+  "game.hostSettings": "Game Settings (Host)",
+  "game.leaveGame": "Leave Game",
+  "game.bankerlessWithdrawal": "Everyone can withdraw from bank",
+  "game.save": "Save",
+  "game.cancel": "Cancel",
+  "game.confirm": "Confirm",
+  "game.transferTo": "Transfer to",
+  "game.amount": "Amount",
+  "game.passGoConfirm": "you will receive. Do you confirm?",
+  "game.leaveConfirm": "Are you sure you want to leave the game? This action cannot be undone.",
+  "game.finishConfirm": "Are you sure you want to finish the game? Statistics will be shown to all players and the game will end.",
+  "game.yesLeave": "Yes, Leave",
+  "game.yesFinish": "Yes, Finish",
+  "game.transactionHistory": "Transaction History",
+  "game.noTransactions": "No transactions yet",
+  "game.transaction.toBank": "{player} deposited {amount} to the bank",
+  "game.transaction.fromBank": "{player} received {amount} from the bank",
+  "game.transaction.passGo": "{player} collected {amount} for passing Go",
+  "game.transaction.playerToPlayer": "{from} sent {amount} to {to}",
+
+
+  // Wrapped/Game End Stats
+  "wrapped.title": "Game End Statistics",
+  "wrapped.mostBankWithdrawals": "Most Bank Withdrawals",
+  "wrapped.mostBankDeposits": "Most Bank Deposits",
+  "wrapped.mostGenerous": "Most Generous Player",
+  "wrapped.mostReceived": "Most Money Received",
+  "wrapped.largestTransfer": "Largest Single Transfer",
+  "wrapped.mostBroke": "Most Broke Player",
+  "wrapped.mostPassGo": "Most Pass Go",
+  "wrapped.times": "times",
+  "wrapped.totalMoneyTransferred": "Total Money Transferred",
+  "wrapped.returnToLobby": "Return to Lobby",
+
+  // Common
+  "common.nobody": "Nobody"
+};

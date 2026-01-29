@@ -1,0 +1,13 @@
+{
+  "name": "monopoly",
+  "private": true,
+  "scripts": {
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "server:start": "cd server && npm start",
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.8.3"
+  }
+}
