@@ -108,7 +108,7 @@ Phones may disconnect due to power saving features, but don't worry. Refreshing 
 
 ### How do I handle property transactions?
 - **Buying mortgaged property**: Use the "Pay Bank" button
-- **Buying from another player**: Use "Transfer" to send money to that player
+- **Buying from another player**: Click the player's name.
 
 ### What does "Anonymous Balances" do?
 When enabled (default), other players see approximate balance ranges instead of exact amounts. When disabled, everyone sees real balances. The host can toggle this setting before creating the game.
